@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/TitleScreen.unity
+    guid: 96127e25c37699641a6d594293a10155
+  - enabled: 1
+    path: Assets/Scenes/Main/OptionsMenu.unity
+    guid: 255e469761b150142a943b985bdcd249
+  - enabled: 1
+    path: Assets/Scenes/Rooms/PlayerRoom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room1.unity
+    guid: 3246c945ccd15d64c9b92e81ca15efb6
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room2.unity
+    guid: b5881fd717c5efe47920daf2d8c2d44b
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room3.unity
+    guid: 85f748d6453e27946910a2ac215db70c
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room4.unity
+    guid: 7e5ba2ede3126444398ad5b1b4d567fb
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room5.unity
+    guid: d25eb584d7dc98444ba63add9edfa070
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room6.unity
+    guid: e72c04bc3a8ef3148b9a2aa4b1e291a6
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room7.unity
+    guid: 5340578518c49ab478d336a696e79149
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room8.unity
+    guid: 8943e25ce2eea9e48ad133a852fa0d33
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room9.unity
+    guid: 641e831c77964144dbb91b414c216ec9
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room10.unity
+    guid: 4701363e19e90d3449c21566426963b1
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room11.unity
+    guid: ffef522fe7f825c43a64fca1be969dd9
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room12.unity
+    guid: 4d514aab711928041a05c2a996b493c7
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room13.unity
+    guid: 2341f2b0ffb218e478ea99a6d9b7dca2
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room14.unity
+    guid: 612e68b7351477a45bae3707e119314a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room15.unity
+    guid: 6aced5a901b6fc044a63789f853e19fc
+  - enabled: 1
+    path: Assets/Scenes/Puzzles/BasePuzzle.unity
+    guid: b46193e5d7c77924886a9c006948b713
+  m_configObjects: {}
